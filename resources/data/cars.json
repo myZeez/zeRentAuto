@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mercedes-benz-e-300",
+    "name": "Mercedes-Benz E 300",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDHFy2m-7YDZimJEVlu_oa0RMDQ1y9138OQTD1uFSISg1uYDTVtj6u7fL-d0UyXn4hnw4T25jpfHoc_vMnGmXajhT2hDXgaf83CdAFVx-Xk0gWg7gRqbUjeqwtPvziaFcuUAWcXhgCijumAUKd1DZCBhUDkUKFQ3cuqAQJMaZK9pkzZsGtTShMpq6GBFAiYF-iDLxOILL_6hnJAFcg7bTKYqtmhn2M0uKkyHQsvljeXFtwWRcItye1TuA",
+    "price": 2450000,
+    "category": "Executive Sedan",
+    "specs": "AMG Line 2.0 Turbo (258 HP)",
+    "seats": 5,
+    "year": 2023,
+    "city": "jakarta",
+    "type": "sedan"
+  },
+  {
+    "id": "bmw-530i-opulence",
+    "name": "BMW 530i Opulence",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAN1FctRMyTxxwaeaywf1mNdmnakpi38_KJ61qXEyh6a1lBB1g_ZPY0EhkjKFwypqbqiFojYntttMF6FM9QDf-mJ4vUAKBx3mybs-hdw9kr9lUv8Ds8Pz4vtSE57eyQg5A-sfwII1JSh-ZsAwykI1AabNnRrvO0-l8AqkdKYa2KEbVKBAjJvEpBfTU3oEJhtiwUCK6g3hyMVDOW08O5xV_LALEendJo2uKNcPXdx0_clDNCFjvb72wdHA",
+    "price": 2300000,
+    "category": "Business Saloon",
+    "specs": "TwinPower 2.0L Steptronic (252 HP)",
+    "seats": 5,
+    "year": 2024,
+    "city": "jakarta",
+    "type": "sedan"
+  },
+  {
+    "id": "hyundai-ioniq-6",
+    "name": "Hyundai IONIQ 6",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBdQ-d81CbM2DZD-XTRkicwNuUFXkmqPfEJOkYVOJ2xUkiMdcyypjkHXc5OiCvtVB4nRalqnRi_oc1gbw4ZQHhNKIPoJ-yUXWINmqODW0DIn5PkVHYvXDr6pQje9m4ZU5VPx0YZVANEOW53WTSEhp-QUig-PeONulmKca8ujLdUmhsVogRu-p1InNZVQ2wn3NckO7Eq_ghULj_YLVONIj2ljRHXPY-PAGIXI5gBjTd7hETDOW6KbM3Pxw",
+    "price": 1950000,
+    "category": "Electric Streamliner",
+    "specs": "AWD Long Range Dual Motor (320 HP)",
+    "seats": 5,
+    "year": 2024,
+    "city": "jakarta",
+    "type": "sedan"
+  },
+  {
+    "id": "toyota-vellfire-lounge",
+    "name": "Toyota Vellfire Lounge",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCE7bHhHvddy3Mn1Yc13AtU6pMMcZ2gZ7xmkA1NyUqZQQGXlOuUwlUUiudavuBxX_fLWeMIOeFYmwOjdYhQjjybIXj1YTexd_58V6Br0TftrhElzwittqZJ14BjTGZQZuuChqdWvvoxKR0_DEhDhPKfK4xzjInM7WcGDFH3zStT4AiXMr3h4Bbk0wBmV1eMW0JfIa1Bo_5rnK4sL62maHBlgZ3Tgdfr96ArtguNUOK_PUPoovVdz-1yfg",
+    "price": 3100000,
+    "category": "Executive MPV",
+    "specs": "2.5 Hybrid CVT Ottoman Lounge",
+    "seats": 7,
+    "year": 2024,
+    "city": "jakarta",
+    "type": "mpv"
+  },
+  {
+    "id": "porsche-718-cayman",
+    "name": "Porsche 718 Cayman",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAd4wseOj5ndihpcSvgqZ8lIxw0Qv_ssZQ0wtnzX-vkwvbf3mm5TJRL4z8b2skqldyG2s662rEWu_0jCyW4W6n5-WI8Cna-Suoou80r57-XW1GrbLd5xXVVLh73sqLQ9tascJypubvrCJ_TVG4MClN2yjv9FX3_uAZQNnAPNERMLeRq6__GAD6kEeTJj3opLPEAE8YVd_1OSRCHDTdYScs9IYmx0lARRVt6YdwrP3yiO5vSxk1eS3-I2w",
+    "price": 4750000,
+    "category": "Coupe / Sports",
+    "specs": "2.0L Turbo Boxer PDK (300 HP)",
+    "seats": 2,
+    "year": 2024,
+    "city": "jakarta",
+    "type": "sports"
+  },
+  {
+    "id": "range-rover-evoque",
+    "name": "Range Rover Evoque",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCXQVsvsd9ewPL-yBS1yQGgWTp0OvobNTxty-UKRplLTlrWA4lm5qvw-RrOBWGws_CbdeP-aXwNYnJHTEtBp9hThexO_m-DJ3-3L0KsMAN7dxBvsWF924Zo5Etc0qTfRBxWn4ID739Vr537V7lMkbZ6solyiZ01yr8YaQ9igRo_lDbECZctK6NwF8ANZXmBzaSoVEKv54M-5G_IfApiew2sPD4dOewiof6Zj82FKVEOaqiB184ZO6tS1A",
+    "price": 2850000,
+    "category": "Luxury SUV",
+    "specs": "R-Dynamic SE 2.0L Turbo AWD (249 HP)",
+    "seats": 5,
+    "year": 2024,
+    "city": "jakarta",
+    "type": "suv"
+  }
+]

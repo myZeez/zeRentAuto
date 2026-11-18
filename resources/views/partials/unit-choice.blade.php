@@ -1,0 +1,4 @@
+<label class="unit-option {{ !$unit['available'] ? 'is-unavailable' : '' }}" data-unit-option="{{ $unit['id'] }}">
+    <input type="radio" name="unit_id" value="{{ $unit['id'] }}" required @disabled(!$unit['available']) @checked((string) old('unit_id') === (string) $unit['id'])>
+    <span class="unit-option-body"><span class="unit-option-heading"><span class="unit-swatch" style="background:{{ $unit['color_hex'] }}"></span><strong data-unit-color>{{ $unit['color'] }}</strong><span class="unit-state" data-unit-state>{{ $unit['label'] }}</span></span><span class="unit-code" data-unit-code>{{ $unit['code'] }}</span><span class="unit-until" data-unit-until>@if($unit['overdue'])Batas waktu terlewati; menunggu mobil kembali.@elseif($unit['until']){{ $unit['available'] && $unit['rented'] ? 'Saat ini disewa. Rencana kembali: ' : 'Rencana kembali / selesai pemesanan: ' }}{{ $unit['until'] }}@endif</span></span>
+</label>
